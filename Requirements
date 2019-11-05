@@ -1,0 +1,23 @@
+Ethan Harvey, Spencer Lisle, Sam Diehl, and Nic Grube
+Henry Farm
+Project Requirements
+
+1.	The administrator can log in on the admin portal. The admin portal is a separate site. 
+2.	Once the administrator is logged in on the admin portal, they can add, edit, or delete the information on the Homepage.
+3.	Once the administrator is logged in on the admin portal, they can add, edit, or delete the information on the About Us tab. 
+4.	Once the administrator is logged in on the admin portal, they can add, edit, or delete the information on the What’s Happening? tab.
+5.	Once the administrator is logged in on the admin portal, they can delete comments on the Testimonials tab.
+6.	Once the administrator is logged in on the admin portal, they can add, edit, or delete the information on the Contact Us tab.
+7.	A new visitor can view information on the Homepage.
+8.	On the Homepage a new visitor can click the “Go to Link” button underneath each picture and title to read more information about the topic displayed.
+9.	A new visitor can cycle through the pictures and titles displayed on the Homepage.
+10.	A new visitor can view information about the Henry Farm on the About Us tab.
+11.	A new visitor can view information on the What’s Happening? tab.
+12.	A new visitor can view specific tasks being done on the farm based off the weather on the What’s Happening? tab. For example, if it is currently raining on the farm the new visitor could view a message specific to the weather like “The cows are wet.”
+13.	A new visitor can view random cow/raw milk facts on the What’s Happening? tab.
+14.	A new visitor can click the cow on the What’s Happening? tab to display another random cow/raw milk fact.
+15.	A new visitor can view testimonials lest by previous visitors on the Testimonials tab.
+16.	A new visitor can submit a testimonial on the Testimonials tab.
+17.	A new visitor must leave their name and email in order to submit a testimonial on the Testimonial tab. The visitor’s email will not be displayed on the Testimonial tab but it will be visible on the admin portal, if for some reason the admin wants to reach out to the visitor.
+18.	A new visitor can view information on the Contact Us tab.
+19.	A new visitor can view a map of Henry Farm’s location on the Contact Us tab.
