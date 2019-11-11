@@ -8,6 +8,10 @@ body {
     overflow: hidden;
 }
 
+.toppadding {
+    padding-top: 50px;
+}
+
 .centered {
     text-align: center;
 }
